@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a50a7c-5d45-4828-9e48-d28c2b0fc747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmqtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode1/Recev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mode1/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model2/Recv1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model2/Recv2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model2/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model3/Recev1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model3/Recev2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model3/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model4/Recev1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model4/Recev2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model4/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model5/Recev1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model5/Recev2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model5/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ConnectionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mode1/Recev.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mode1/Send.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model2/Recv1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model2/Recv2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model2/Send.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model3/Recev1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model3/Recev2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model3/Send.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model4/Recev1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model4/Recev2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model4/Send.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model5/Recev1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model5/Recev2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model5/Send.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/util/ConnectionUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model2/Send.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
@@ -105,6 +72,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -119,12 +95,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/util/ConnectionUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/mode1/Recev.java" />
         <option value="$PROJECT_DIR$/src/main/java/model2/Recv1.java" />
@@ -140,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/main/java/model5/Send.java" />
         <option value="$PROJECT_DIR$/src/main/java/mode1/Send.java" />
         <option value="$PROJECT_DIR$/src/main/java/model2/Send.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -176,6 +152,10 @@
           <expand>
             <path>
               <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabbitmqtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rabbitmqtest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -193,7 +173,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -301,17 +281,25 @@
       <updated>1569379819711</updated>
       <workItem from="1569379823763" duration="11652000" />
       <workItem from="1569458984223" duration="17772000" />
-      <workItem from="1569545442642" duration="547000" />
+      <workItem from="1569545442642" duration="1173000" />
     </task>
+    <task id="LOCAL-00001" summary="初尝RabbitMQ ,几个模式测试案例">
+      <created>1569546072562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569546072562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29971000" />
+    <option name="totallyTimeSpent" value="30597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -326,10 +314,10 @@
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49733475" visible="true" weight="0.23497854" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.23497854" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4989339" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -345,18 +333,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="初尝RabbitMQ ,几个模式测试案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="初尝RabbitMQ ,几个模式测试案例" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.7.3/amqp-client-5.7.3.jar!/com/rabbitmq/client/Channel.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-365">
           <caret line="109" column="48" lean-forward="true" selection-start-line="109" selection-start-column="48" selection-end-line="109" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -501,6 +489,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
